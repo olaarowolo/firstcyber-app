@@ -21,3 +21,8 @@ yarn-error.log
 /.nova
 /.vscode
 /.zed
+
+
+git rm --cached .DS_Store
+Archive.zip
+menu.html

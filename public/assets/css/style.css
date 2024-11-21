@@ -1,0 +1,47 @@
+
+.pt {
+padding-top: 100px;
+}
+
+
+* {
+    box-sizing: border-box; /* Ensure padding and borders are included in element's total width and height */
+}
+
+body, html {
+    margin: 0; /* Remove default margin */
+    height: 100%; /* Ensure body takes full height */
+}
+
+.title {
+    color: white;
+}
+
+.flex-center {
+    position: absolute;
+    top: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex; /* Use flexbox for centering */
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+}
+
+.logo {
+    max-width: 40%; /* Ensure logo doesn't exceed its container */
+    height: auto; /* Maintain aspect ratio */
+    filter: invert(1); /* Invert colors */
+}
+
+/* Media queries for additional responsiveness */
+@media (max-width: 600px) {
+    .logo {
+        width: 50%; /* Adjust logo size for smaller screens */
+    }
+}
+
+@media (min-width: 601px) and (max-width: 1200px) {
+    .logo {
+        width: 20%; /* Adjust logo size for medium screens */
+    }
+}
