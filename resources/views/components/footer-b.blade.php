@@ -8,7 +8,7 @@ data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;jet_
         <div class="elementor-element elementor-element-fc5e887 elementor-widget elementor-widget-image"
             data-id="fc5e887" data-element_type="widget" data-widget_type="image.default">
             <div class="elementor-widget-container">
-                <a href="index.html">
+                <a href="/">
                     <img class="logo" src="{{ asset('assets/img/FCI-Cyber-Logo-black-Horizontal.png') }}" alt="First Cyber Instinct Logo"
                 style="filter: invert(1);">
                     
@@ -106,27 +106,27 @@ data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;jet_
                     <ul id="menu-1-d315dfd" class="elementor-nav-menu sm-vertical">
                         <li
                             class="menu-item menu-item-type-post_type menu-item-object-services menu-item-1130">
-                            <a href="services/incident-response-and-forensics/index.html"
+                            <a href="#"
                                 class="elementor-item">Incident Response and Forensics</a></li>
                         <li
                             class="menu-item menu-item-type-post_type menu-item-object-services menu-item-1131">
-                            <a href="services/security-engineering-devops/index.html"
+                            <a href="#"
                                 class="elementor-item">Security Engineering &amp; DevOps</a></li>
                         <li
                             class="menu-item menu-item-type-post_type menu-item-object-services menu-item-1132">
-                            <a href="services/security-architecture-design/index.html"
+                            <a href="#"
                                 class="elementor-item">Security Architecture Design </a></li>
                         <li
                             class="menu-item menu-item-type-post_type menu-item-object-services menu-item-1133">
-                            <a href="services/security-cloud-transformation/index.html"
+                            <a href="#"
                                 class="elementor-item">Security Cloud Transformation</a></li>
                         <li
                             class="menu-item menu-item-type-post_type menu-item-object-services menu-item-1134">
-                            <a href="services/managed-soc-services/index.html"
+                            <a href="#"
                                 class="elementor-item">Managed SOC Services</a></li>
                         <li
                             class="menu-item menu-item-type-post_type menu-item-object-services menu-item-1135">
-                            <a href="services/soc-building/index.html" class="elementor-item">SOC
+                            <a href="#" class="elementor-item">SOC
                                 Building</a></li>
                     </ul>
                 </nav>
@@ -134,28 +134,28 @@ data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;jet_
                     <ul id="menu-2-d315dfd" class="elementor-nav-menu sm-vertical">
                         <li
                             class="menu-item menu-item-type-post_type menu-item-object-services menu-item-1130">
-                            <a href="services/incident-response-and-forensics/index.html"
+                            <a href="#"
                                 class="elementor-item" tabindex="-1">Incident Response and Forensics</a>
                         </li>
                         <li
                             class="menu-item menu-item-type-post_type menu-item-object-services menu-item-1131">
-                            <a href="services/security-engineering-devops/index.html" class="elementor-item"
+                            <a href="#" class="elementor-item"
                                 tabindex="-1">Security Engineering &amp; DevOps</a></li>
                         <li
                             class="menu-item menu-item-type-post_type menu-item-object-services menu-item-1132">
-                            <a href="services/security-architecture-design/index.html"
+                            <a href="#"
                                 class="elementor-item" tabindex="-1">Security Architecture Design </a></li>
                         <li
                             class="menu-item menu-item-type-post_type menu-item-object-services menu-item-1133">
-                            <a href="services/security-cloud-transformation/index.html"
+                            <a href="#"
                                 class="elementor-item" tabindex="-1">Security Cloud Transformation</a></li>
                         <li
                             class="menu-item menu-item-type-post_type menu-item-object-services menu-item-1134">
-                            <a href="services/managed-soc-services/index.html" class="elementor-item"
+                            <a href="#" class="elementor-item"
                                 tabindex="-1">Managed SOC Services</a></li>
                         <li
                             class="menu-item menu-item-type-post_type menu-item-object-services menu-item-1135">
-                            <a href="services/soc-building/index.html" class="elementor-item"
+                            <a href="#" class="elementor-item"
                                 tabindex="-1">SOC Building</a></li>
                     </ul>
                 </nav>
@@ -180,13 +180,13 @@ data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;jet_
                     class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-underline e--animation-fade">
                     <ul id="menu-1-7becd2d" class="elementor-nav-menu sm-vertical">
                         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-193">
-                            <a href="cyber-security-solutions/index.html"
+                            <a href="#"
                                 class="elementor-item">Services</a></li>
                         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-192">
-                            <a href="portfolio-of-client-work/index.html" class="elementor-item">Case
+                            <a href="#" class="elementor-item">Case
                                 Studies</a></li>
                         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-191">
-                            <a href="about-asm-cyber/index.html" class="elementor-item">About</a></li>
+                            <a href="#" class="elementor-item">About</a></li>
                         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-190">
                             <a href="contact-asm-cyber/index.html" class="elementor-item">Contact</a></li>
                     </ul>
@@ -194,16 +194,16 @@ data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;jet_
                 <nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
                     <ul id="menu-2-7becd2d" class="elementor-nav-menu sm-vertical">
                         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-193">
-                            <a href="cyber-security-solutions/index.html" class="elementor-item"
+                            <a href="#" class="elementor-item"
                                 tabindex="-1">Services</a></li>
                         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-192">
-                            <a href="portfolio-of-client-work/index.html" class="elementor-item"
+                            <a href="#" class="elementor-item"
                                 tabindex="-1">Case Studies</a></li>
                         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-191">
-                            <a href="about-asm-cyber/index.html" class="elementor-item"
+                            <a href="#" class="elementor-item"
                                 tabindex="-1">About</a></li>
                         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-190">
-                            <a href="contact-asm-cyber/index.html" class="elementor-item"
+                            <a href="#" class="elementor-item"
                                 tabindex="-1">Contact</a></li>
                     </ul>
                 </nav>
@@ -228,36 +228,36 @@ data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;jet_
                     class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-underline e--animation-fade">
                     <ul id="menu-1-c07e030" class="elementor-nav-menu sm-vertical">
                         <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1136">
-                            <a href="asm-cyber-security/index.html#faqs-home"
+                            <a href="#"
                                 class="elementor-item elementor-item-anchor">FAQs</a></li>
                         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1137">
-                            <a href="cyber-security-solutions/index.html" class="elementor-item">Our
+                            <a href="#" class="elementor-item">Our
                                 Services</a></li>
                         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1138">
-                            <a href="about-asm-cyber/index.html" class="elementor-item">Our Team</a></li>
+                            <a href="#" class="elementor-item">Our Team</a></li>
                         <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1139">
-                            <a rel="privacy-policy" href="privacy-policy/index.html"
+                            <a rel="#" href="privacy-policy/index.html"
                                 class="elementor-item">Privacy Policy</a></li>
                         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1140">
-                            <a href="under-attack/index.html" class="elementor-item">Under Attack</a></li>
+                            <a href="#" class="elementor-item">Under Attack</a></li>
                     </ul>
                 </nav>
                 <nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
                     <ul id="menu-2-c07e030" class="elementor-nav-menu sm-vertical">
                         <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1136">
-                            <a href="asm-cyber-security/index.html#faqs-home"
+                            <a href="#"
                                 class="elementor-item elementor-item-anchor" tabindex="-1">FAQs</a></li>
                         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1137">
-                            <a href="cyber-security-solutions/index.html" class="elementor-item"
+                            <a href="#" class="elementor-item"
                                 tabindex="-1">Our Services</a></li>
                         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1138">
-                            <a href="about-asm-cyber/index.html" class="elementor-item" tabindex="-1">Our
+                            <a href="#" class="elementor-item" tabindex="-1">Our
                                 Team</a></li>
                         <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1139">
                             <a rel="privacy-policy" href="privacy-policy/index.html" class="elementor-item"
                                 tabindex="-1">Privacy Policy</a></li>
                         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1140">
-                            <a href="under-attack/index.html" class="elementor-item" tabindex="-1">Under
+                            <a href="#" class="elementor-item" tabindex="-1">Under
                                 Attack</a></li>
                     </ul>
                 </nav>

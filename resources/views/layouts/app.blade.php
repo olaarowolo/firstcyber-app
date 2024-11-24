@@ -23,14 +23,20 @@
         </div>
 
 
-       @include ('partials.stats')
-       @include('partials.about-us')
+       {{-- @include ('partials.stats') --}}
+       {{-- @include('partials.about-us') --}}
 		{{-- @include ('partials.problems') --}}
 		{{-- @include ('partials.offer') --}}
 		{{-- @include ('partials.solutions')  --}}
+        {{-- @include ('partials.offer') --}}
+        {{-- @include('partials.why-fci') --}}
 		{{-- @include ('partials.testimonials')  --}}
-		{{-- @include ('partials.why-fci') --}}
+        {{-- @include ('partials.offer') --}}
+        {{-- @include ('partials.faqs') --}}
+{{-- @include('partials.non-profit-commitment') --}}
+        {{-- @include('partials.contact') --}}
     </div>
+    {{-- @include('partials.space') --}}
     {{-- @include('components.full-footer')	 --}}
     {{-- @include('components.basic-footer')	 --}}
 

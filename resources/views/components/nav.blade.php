@@ -44,7 +44,7 @@
                                         Studies</a>
                                 </li> --}}
                                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-191">
-                                    <a href="#" class="elementor-item">About</a>
+                                    <a href="/#about" class="elementor-item">About</a>
                                 </li>
                                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-190">
                                     <a href="#" class="elementor-item">Contact</a>
@@ -70,13 +70,13 @@
                         <nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
                             <ul id="menu-2-e181add" class="elementor-nav-menu">
                                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-193">
-                                    <a href="#" class="elementor-item" tabindex="-1">Services</a>
+                                    <a href="/#services" class="elementor-item" tabindex="-1">Services</a>
                                 </li>
                                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-192">
                                     <a href="#" class="elementor-item" tabindex="-1">Case Studies</a>
                                 </li>
                                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-191">
-                                    <a href="#" class="elementor-item" tabindex="-1">About</a>
+                                    <a href="/#about" class="elementor-item" tabindex="-1">About</a>
                                 </li>
                                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-190">
                                     <a href="#" class="elementor-item" tabindex="-1">Contact</a>
