@@ -10,7 +10,7 @@
     <meta property="og:title" content="First Cyber Instinct | Cyber Security Solutions" />
     <meta property="og:description"
         content="At First Cyber Instinct we empower businesses with robust, cutting-edge security measures to defend against ever-evolving cyber threats." />
-    <meta property="og:url" content="index.html" />
+    <meta property="og:url" content="/" />
     <meta property="og:site_name" content="First Cyber Instinct" />
     <meta property="article:modified_time" content="2024-08-15T11:45:54+00:00" />
     <meta property="og:image" content="/assets/img/fci-favicon.png" />
@@ -70,5 +70,5 @@
     <link rel="https://api.w.org/" href="wp-json/index.html" />
     <link rel="alternate" title="JSON" type="application/json" href="wp-json/wp/v2/pages/178.json" />
     <link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc0db0.html?rsd" />
-    <link rel='shortlink' href='index.html' />
+    <link rel='shortlink' href='/' />
 </head>

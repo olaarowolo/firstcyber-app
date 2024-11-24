@@ -118,7 +118,7 @@
             <div class="elementor-element elementor-element-833e2f4 elementor-widget elementor-widget-theme-site-logo elementor-widget-image"
                 data-id="833e2f4" data-element_type="widget" data-widget_type="theme-site-logo.default">
                 <div class="elementor-widget-container">
-                    <a href="index.html">
+                    <a href="/">
                         <img fetchpriority="high" width="1920" height="505"
 						src="{{ asset('assets/img/FCI-Cyber-Logo-Blue-Horizontal.png') }}" 
 						alt="FCI-Cyber-Logo-Blue-Horizontal"
